@@ -24,7 +24,7 @@ function MyVerticallyCenteredModal(props) {
       <Modal.Body>
       <img className="portfolio-image-popupbox" src={dummy} />
       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex cumque illo est expedita quos adipisci suscipit unde itaque qui perferendis.</p>
-      <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://google.com")}>https://google.com</a>
+      <b>Link:</b> <a className="hyper-link" onClick={() => window.open("https://google.com")}>https://google.com</a>
       </Modal.Body>
     
     </Modal>
